@@ -41,8 +41,9 @@ pkg install git
 git clone https://github.com/shadowwalker005/ngrok
 cd
 cd ngrok
+unzip ngrok-stable-linux-arm.zip
 chmod 777 ngrok
-mv -rf ngrok /data/data/com.termux/files/usr/bin/
+mv ngrok /data/data/com.termux/files/usr/bin/
 cd
 ngrok authtoken 1dPiXczAgzc0C06i82AJEuoZiEs_39P11tVadtwL96GycACk9
 clear
