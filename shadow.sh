@@ -34,7 +34,7 @@ yt
     sleep 4
 }
 
-ngrok() {
+ng() {
 pkg update
 pkg install wget
 pkg install git
@@ -294,7 +294,7 @@ elif [[ $num == 2 ]]; then
     clear
     echo " ~ This Will Install Ngrok"
     sleep 2
-    ngrok
+    ng
     bash shadow.sh
 elif [[ $num == 3 ]]; then
     clear
