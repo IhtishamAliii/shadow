@@ -12,7 +12,9 @@
 # INSTALLATION:
 # pkg update
 # pkg install git
-# git clone of https://github.com/shadowwalker005/shadow && cd shadow && chmod 777 *
+
+git clone of https://github.com/shadowwalker005/shadow && cd shadow && chmod 777 *
+
 # bash shadow.sh
 
 #
