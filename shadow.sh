@@ -24,6 +24,7 @@ git clone https://github.com/shadowwalker005/metasploit
 }
 
 ng() {
+cd
 pkg update
 pkg install wget
 pkg install git
