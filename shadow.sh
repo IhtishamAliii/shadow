@@ -19,19 +19,8 @@ reset=$(tput sgr0)
 #functions 
 
 meta() {
-pkg update
-pkg install wget
-pkg install curl
-curl -LO https://github.com/termux/termux-packages/files/3995119/metasploit_5.0.65-1_all.deb.gz
-gunzip metasploit_5.0.65-1_all.deb.gz
-dpkg -i metasploit_5.0.65-1_all.deb
-apt -f install
-cd /data/data/com.termux/files/usr/opt/metasploit-framework && bundle install
-cd
-clear
-echo "${green} ~ Metasploit Has Been Installed Successfully${reset}"
+git clone https://github.com/shadowwalker005/metasploit
 yt
-    sleep 4
 }
 
 ng() {
@@ -229,6 +218,7 @@ echo
 yt() {
     echo "${cyan}${bt} Please Subscribe To My YouTube Channel"
     echo "${cyan}${bt} Channel Link: https://tiny.cc/ShadowYT"
+    xdg-open https://youtube.com/shadowwalkeryt
     echo
 }
 
@@ -289,7 +279,8 @@ if [[ $num == 1 ]]; then
     echo " ~ This Will Install Metasploit"
     sleep 1
     meta
-    cd && cd shadow
+    cd && cd metasploit
+    chmod 777 shadow.sh
     bash shadow.sh
 elif [[ $num == 2 ]]; then
     clear
