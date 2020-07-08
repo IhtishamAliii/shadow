@@ -252,11 +252,11 @@ echo "${reset}"
 echo "${bt}"
 echo "${cyan} ~ Script Made By Ihtisham Ali (Shadow Walker)"
 
-echo "${cyan} ~ YouTube Channel Link: https://tiny.cc/ShadowYT"
+echo "${cyan} ~ YouTube Channel: https://tiny.cc/ShadowYT"
 
 echo "${cyan} ~ Instagram: ShadowWalker143"
 
-echo "${cyan} ~ Facebook: ShadowWalker005"
+echo "${cyan} ~ Facebook: ShadowWalkerYT"
 echo
 echo 
 echo "${green} ~ Select To Install:"
