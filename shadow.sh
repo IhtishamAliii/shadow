@@ -20,7 +20,7 @@ reset=$(tput sgr0)
 
 meta() {
 git clone https://github.com/shadowwalker005/metasploit
-yt
+
 }
 
 ng() {
