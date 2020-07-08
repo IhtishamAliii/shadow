@@ -59,7 +59,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/shadowwalker005/shellphish
 cd shellphish
 chmod 777 *
 cd
@@ -77,7 +77,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/thelinuxchoice/saycheese
+git clone https://github.com/shadowwalker005/saycheese
 cd saycheese
 chmod 777 *
 cd
@@ -94,7 +94,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/thelinuxchoice/underhanded
+git clone https://github.com/shadowwalker005/underhanded
 cd underhanded
 chmod 777 *
 cd
@@ -111,7 +111,7 @@ pkg install git
 pkg install wget
 pkg install php
 pkg install httrack
-git clone https://github.com/thelinuxchoice/lockphish
+git clone https://github.com/shadowwalker005/lockphish
 cd lockphish
 chmod 777 *
 cd
@@ -128,7 +128,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/thelinuxchoice/sayhello
+git clone https://github.com/shadowwalker005/sayhello
 cd sayhello
 chmod 777 *
 cd
@@ -145,7 +145,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/thelinuxchoice/inshackle
+git clone https://github.com/shadowwalker005/inshackle
 cd inshackle
 chmod 777 *
 cd
@@ -289,60 +289,70 @@ if [[ $num == 1 ]]; then
     echo " ~ This Will Install Metasploit"
     sleep 1
     meta
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 2 ]]; then
     clear
     echo " ~ This Will Install Ngrok"
     sleep 2
     ng
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 3 ]]; then
     clear
     echo " ~ This Will Install Shellphish"
     sleep 2
     sp
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 4 ]]; then
     clear
     echo " ~ This Will Install Saycheese"
     sleep 2
     sc
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 5 ]]; then
     clear
     echo " ~ This Will Install Underhanded"
     sleep 2
     uh
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 6 ]]; then
     clear
     echo " ~ This Will Install LockPhish"
     sleep 2
     lp
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 7 ]]; then
     clear
     echo " ~ This Will Install SayHello"
     sleep 2
     sh
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 8 ]]; then
     clear
     echo " ~ This Will Install Inshackle"
     sleep 2
     inh
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 9 ]]; then
     clear
     echo " ~ This Will Install PayGen"
     sleep 2
     pg
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 10 ]]; then
     clear
     echo " ~ This Will Install Adb & Fastboot"
     sleep 2
     af
+    cd && cd shadow
     bash shadow.sh
 elif [[ $num == 99 ]]; then
     clear 
@@ -358,11 +368,13 @@ elif [[ $num == 0 ]]; then
     info
     echo " ~ Press Enter To Continue..."
     read Continue
+    cd && cd shadow
     bash shadow.sh
     
   
 else
-    clear                                       
+    clear 
+    cd && cd shadow                                      
     bash shadow.sh
 fi
 
