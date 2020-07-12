@@ -152,11 +152,8 @@ pkg install git
 git clone https://github.com/shadowwalker005/paygen
 cd paygen
 chmod 777 *
-cd
+bash install.sh
 clear
-echo "${green} ~ PayGen Has Been Installed Successfully${reset}"
-yt
-sleep 4
 }
 
 af() {
@@ -337,8 +334,6 @@ elif [[ $num == 9 ]]; then
     echo " ~ This Will Install PayGen"
     sleep 2
     pg
-    cd && cd shadow
-    bash shadow.sh
 elif [[ $num == 10 ]]; then
     clear
     echo " ~ This Will Install Adb & Fastboot"
