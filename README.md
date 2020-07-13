@@ -1,5 +1,5 @@
 # shadow
-# Owner: Ihtisham Ali (Shadow Walker
+# Owner: Ihtisham Ali - Shadow Walker
 # YouTube Channel: https://tiny.cc/ShadowYT
 # Facebook: https://facebook.com/ShadowWalkerYT
 
@@ -13,7 +13,7 @@
 # pkg update
 # pkg install git
 
-git clone of https://github.com/shadowwalker005/shadow && cd shadow && chmod 777 *
+# git clone https://github.com/shadowwalker005/shadow && cd shadow && chmod 777 *
 
 # bash shadow.sh
 
