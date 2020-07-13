@@ -1,12 +1,14 @@
 # shadow
-# Owner: Ihtisham Ali - Shadow Walker
-# YouTube Channel: https://tiny.cc/ShadowYT
+# Developer: Ihtisham Ali - Shadow Walker
+# YouTube Channel: https://youtube.com/ShadowWalkerYT
 # Facebook: https://facebook.com/ShadowWalkerYT
-
+# Blogspot: https://shadowhub.blogspot.com
 #
-# This Script Will Automatically Install Your Favourite Tools On Your Termux
+# This Script Will Automatically Install Your Favourite Tools On Your Termux. It's A Complete Toolkit For Hackers, These Are All The Tools You Need To Hack.
+# Don't Copy Without Giving Me Credit! Script Kiddie xD
+# Show Some Support By Subscribing My Channel
 ![Shadow](https://github.com/shadowwalker005/shadow/blob/master/Screenshot_2020-07-14-01-25-33.png)
-#
+
 #
 #
 # INSTALLATION:
@@ -25,6 +27,6 @@
 #
 # In Case Of Any Issues Please Feel Free To Contact Me
 #
-# Also Check Out My YouTube Channel: https://tiny.cc/ShadowYT
+# Also Check Out My YouTube Channel: https://youtube.com/ShadowWalkerYT
 
 
