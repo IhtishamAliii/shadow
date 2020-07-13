@@ -4,7 +4,7 @@
 # Facebook: https://facebook.com/ShadowWalkerYT
 
 #
-# This Script Will Automatically Install Tools On Your Termux
+# This Script Will Automatically Install Your Favourite Tools On Your Termux
 ![Shadow](https://github.com/shadowwalker005/shadow/blob/master/Screenshot_2020-07-14-01-25-33.png)
 #
 #
@@ -21,7 +21,7 @@
 
 # bash install.sh
 #
-#
+# Now Type shadow To Run The Script
 #
 # In Case Of Any Issues Please Feel Free To Contact Me
 #
