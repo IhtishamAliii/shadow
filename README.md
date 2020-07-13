@@ -10,14 +10,16 @@
 #
 #
 # INSTALLATION:
+
 # pkg update
+
 # pkg install git
 
-# git clone https://github.com/shadowwalker005/shadow && cd shadow && chmod 777 *
+# git clone https://github.com/shadowwalker005/shadow
 
-# bash shadow.sh
+# cd shadow && chmod 777 *
 
-#
+# bash install.sh
 #
 #
 #
