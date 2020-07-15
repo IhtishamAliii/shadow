@@ -29,7 +29,7 @@
 *Now Type _shadow_ To Run The Script**
 
 ## Developed By:
-- Ihtisham Ali
+- Ihtisham Ali aka Shadow Walker
 ## Links:
 - YouTube Channel: [Shadow Walker](https://youtube.com/ShadowWalkerYT)
 - Facebook: [S. Walker](https://facebook.com/ShadowWalkerYT)
