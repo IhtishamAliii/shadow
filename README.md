@@ -1,6 +1,7 @@
 ## Shadow
 #### A Toolkit For Termux Hackers
-## Developer Ihtisham Ali - Shadow Walker
+## Developed By:
+- Ihtisham Ali
 ### YouTube Channel: [Shadow Walker](https://youtube.com/ShadowWalkerYT)
 ### Facebook: [S. Walker](https://facebook.com/ShadowWalkerYT)
 ### Blogspot: [ShadowHub]( https://shadowhub.blogspot.com)
