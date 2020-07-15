@@ -1,9 +1,9 @@
 ## Shadow
 #### A Toolkit For Termux Hackers
 ##Developer Ihtisham Ali - Shadow Walker
-# YouTube Channel: [Shadow Walker](https://youtube.com/ShadowWalkerYT)
-# Facebook: [S. Walker] (https://facebook.com/ShadowWalkerYT)
-# Blogspot: [ShadowHub]( https://shadowhub.blogspot.com)
+### YouTube Channel: [Shadow Walker](https://youtube.com/ShadowWalkerYT)
+### Facebook: [S. Walker](https://facebook.com/ShadowWalkerYT)
+### Blogspot: [ShadowHub]( https://shadowhub.blogspot.com)
 
 #### This Script Will Automatically Install Your Favourite Tools On Your Termux. It's A Complete Toolkit For Hackers, These Are All The Tools You Need To Hack.
 #### Don't Copy Without Giving Me Credit! Script Kiddie xD
