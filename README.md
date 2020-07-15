@@ -6,7 +6,7 @@
 
 ***Don't Copy Without Giving Me Credit! Script Kiddie xD***
 
-***Show Some Support By Subscribing My Channel***[SUBSCRIBE](https://youtube.com/ShadowWalkerYT)
+**Show Some Support By Subscribing My Channel** [SUBSCRIBE](https://youtube.com/ShadowWalkerYT)
 
 ## Screenshot
 ![Shadow](https://github.com/shadowwalker005/shadow/blob/master/Screenshot_2020-07-14-01-25-33.png)
@@ -26,7 +26,7 @@
 
 > bash install.sh
 
-*"Now Type shadow To Run The Script**
+*Now Type _shadow_ To Run The Script**
 
 ## Developed By:
 - Ihtisham Ali
@@ -37,8 +37,8 @@
 
 
 
-#### In Case Of Any Issues Please Feel Free To Contact Me
+**In Case Of Any Issues Please Feel Free To Contact Me**
 
-### Also Check Out My YouTube Channel: [Shadow Walker](https://youtube.com/ShadowWalkerYT)
+**Also Check Out My YouTube Channel:** [Shadow Walker](https://youtube.com/ShadowWalkerYT)
 
 
