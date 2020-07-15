@@ -14,9 +14,9 @@
 #
 # INSTALLATION:
 
-# pkg update
+> pkg update
 
-# pkg install git
+> pkg install git
 
 # git clone https://github.com/shadowwalker005/shadow
 
