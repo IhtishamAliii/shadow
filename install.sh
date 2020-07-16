@@ -48,6 +48,8 @@ echo " ${blue}${bt}[${white}✓${blue}] ${green}Shadow Has Been Installed"
 echo
 echo " ${blue}${bt}[${white}✓${blue}] ${green}To Run Just Type ${cyan}shadow${green} Anywhere"
 echo
-
+echo " ${blue}${bt}[${white}*${blue}] ${green}Please ${white}${rbg}Subscribe${reset}${bt}${green} My YouTube Channel"
+echo
+xdg-open https://youtube.com/ShadowWalkerYT
 read -p ' ~ Hit Enter To Run Now...' run
 shadow
