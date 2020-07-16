@@ -1,13 +1,53 @@
 #!/bin/bash
+red=$(tput setaf 1)
+green=$(tput setaf 2)
+yellow=$(tput setaf 3)
+blue=$(tput setaf 4)
+pink=$(tput setaf 5)
+cyan=$(tput setaf 6)
+white=$(tput setaf 7)
 
-chmod 777 shadow
+
+bt=$(tput bold 2)
+#reset color
+
+reset=$(tput sgr0)
+
+#decoration
+
+
+#background colors
+rbg=$(tput setab 1)
+wbg=$(tput setab 7)
+bbg=$(tput setab 4)
+cbg=$(tput setab 6)
+gbg=$(tput setab 2)
+
+
+#code
+echo
+echo " ${blue}${bt}[${white}+${blue}] ${green}Installing Shadow"
+echo
+sleep 4
+echo " ${blue}${bt}[${white}+${blue}] ${green}Installing Color-Scheme"
+echo
+pkg install ncurses-utils > /dev/null 2>&1
+sleep 2
+echo " ${blue}${bt}[${white}*${blue}] ${green}Setting Up Permissions"
+chmod 775 shadow
+sleep 3
+echo " ${blue}${bt}[${white}*${blue}] ${green}Setting Up Files"
+
 mv shadow $PREFIX/bin
 cd ..
 rm -rf shadow
 clear
 echo
-echo " ~ Shadow Has Been Installed Successfully"
-echo " ~ Just Type shadow To Run The Script"
+sleep 3
+echo " ${blue}${bt}[${white}✓${blue}] ${green}Shadow Has Been Installed"
 echo
+echo " ${blue}${bt}[${white}✓${blue}] ${green}To Run Just Type ${cyan}shadow${green} Anywhere"
+echo
+
 read -p ' ~ Hit Enter To Run Now...' run
 shadow
