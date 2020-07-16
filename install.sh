@@ -25,6 +25,7 @@ gbg=$(tput setab 2)
 
 
 #code
+clear
 echo
 echo " ${blue}${bt}[${white}+${blue}] ${green}Installing Shadow"
 echo
@@ -41,9 +42,9 @@ echo " ${blue}${bt}[${white}*${blue}] ${green}Setting Up Files"
 mv shadow $PREFIX/bin
 cd ..
 rm -rf shadow
+sleep 3
 clear
 echo
-sleep 3
 echo " ${blue}${bt}[${white}✓${blue}] ${green}Shadow Has Been Installed"
 echo
 echo " ${blue}${bt}[${white}✓${blue}] ${green}To Run Just Type ${cyan}shadow${green} Anywhere"
