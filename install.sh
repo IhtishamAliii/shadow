@@ -37,6 +37,7 @@ sleep 2
 echo " ${blue}${bt}[${white}*${blue}] ${green}Setting Up Permissions"
 chmod 775 shadow
 sleep 3
+echo
 echo " ${blue}${bt}[${white}*${blue}] ${green}Setting Up Files"
 
 mv shadow $PREFIX/bin
