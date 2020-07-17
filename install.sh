@@ -32,7 +32,7 @@ echo
 sleep 4
 echo " ${blue}${bt}[${white}+${blue}] ${green}Installing Color-Scheme"
 echo
-pkg install ncurses-utils > /dev/null 2>&1
+pkg install ncurses-utils -y > /dev/null 2>&1
 sleep 2
 echo " ${blue}${bt}[${white}*${blue}] ${green}Setting Up Permissions"
 chmod 775 shadow
