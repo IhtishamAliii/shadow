@@ -20,7 +20,7 @@
 
 > pkg install git
 
-> git clone https://github.com/shadowwalker005/shadow
+> git clone https://github.com/ShamOps/shadow
 
 >  cd shadow && chmod 777 *
 
@@ -32,8 +32,8 @@
 - Ihtisham Ali aka Shadow Walker
 ## Links:
 - YouTube Channel: [Shadow Walker](https://youtube.com/ShadowWalkerYT)
-- Facebook: [S. Walker](https://facebook.com/ShadowWalkerYT)
-- Blogspot: [ShadowHub]( https://shadowhub.blogspot.com)
+- Facebook: [Ihtisham Ali](https://facebook.com/ShadowWalker005)
+- Blogspot: [ShadowHub]( https://shamops.blogspot.com)
 
 
 
